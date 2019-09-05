@@ -11,9 +11,9 @@ export default {
     //  this.$api.post('/api/login',{userName:"mayingjie", password:"123456"}).then(res => {
     //   console.log(res)
     // })
-    this.$api.user.login({username:"zs", password:"123"}).then(res => {
-      console.log(res)
-    })
+    // this.$api.user.login({username:"zs", password:"123"}).then(res => {
+    //   console.log(res)
+    // })
   }
 }
 </script>
